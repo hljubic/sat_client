@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee2e9347-3fdb-42ad-bac1-e3e987b0073e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1a2U3ljKHdOJ7laMtXTaVQwyiIW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/icons" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee2e9347-3fdb-42ad-bac1-e3e987b0073e" name="Default Changelist" comment="" />
+      <created>1585264679726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585264679726</updated>
+      <workItem from="1585264681756" duration="3610000" />
+      <workItem from="1585269691580" duration="13922000" />
+      <workItem from="1585557906103" duration="6000" />
+      <workItem from="1585869128311" duration="3458000" />
+      <workItem from="1585932989396" duration="4158000" />
+      <workItem from="1585938683258" duration="2675000" />
+      <workItem from="1585949484652" duration="10115000" />
+      <workItem from="1586016503415" duration="94000" />
+      <workItem from="1586016604939" duration="4602000" />
+      <workItem from="1586034847851" duration="4565000" />
+      <workItem from="1586206678441" duration="4459000" />
+      <workItem from="1586215666657" duration="297000" />
+      <workItem from="1586216003242" duration="710000" />
+      <workItem from="1589042898243" duration="7554000" />
+      <workItem from="1589269751269" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finished first phase.">
+      <created>1585956829882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585956829882</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Popravljeni detalji.">
+      <created>1585957125100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585957125100</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Popravljeni detalji.">
+      <created>1585957981970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585957981970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Popravljeni detalji.">
+      <created>1586025397169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586025397169</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Popravljeni detalji.">
+      <created>1586039340076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586039340076</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Popravljeni detalji.">
+      <created>1586208104359</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586208104359</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Dodana plava traka.">
+      <created>1586215069081</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586215069081</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Stinice.">
+      <created>1586215953897</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586215953897</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Popravljeni bugovi,">
+      <created>1589058811749</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589058811749</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Finished first phase." />
+    <MESSAGE value="Popravljeni detalji." />
+    <MESSAGE value="Dodana plava traka." />
+    <MESSAGE value="Stinice." />
+    <MESSAGE value="Popravljeni bugovi," />
+    <option name="LAST_COMMIT_MESSAGE" value="Popravljeni bugovi," />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="118" key="CommitChangelistDialog2" timestamp="1589058811260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="120" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589058811260" />
+    <state x="0" y="89" key="DiffContextDialog" timestamp="1589054776880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="89" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589054776880" />
+    <state x="300" y="234" key="RollbackChangesDialog" timestamp="1585954739578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="300" y="234" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585954739578" />
+    <state x="86" y="256" key="Vcs.Push.Dialog.v2" timestamp="1589058813394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="86" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589058813394" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585932999855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585932999855" />
+    <state x="607" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589053495360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589053495360" />
+    <state x="289" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589051314088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="289" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589051314088" />
+    <state x="654" y="119" width="737" height="804" key="find.popup" timestamp="1589058517209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="119" width="737" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589058517209" />
+    <state x="143" y="242" width="672" height="677" key="run.anything.popup" timestamp="1586037521184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="242" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586037521184" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1589055931619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589055931619" />
+  </component>
+</project>

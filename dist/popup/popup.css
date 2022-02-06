@@ -1,0 +1,12 @@
+
+.container {
+  position: relative;
+  background: #fff;
+  width: 520px;
+  height: 300px;
+}
+.md-layout-item { position: relative;
+}
+img { width: 32px;
+}
+
